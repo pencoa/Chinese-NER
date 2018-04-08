@@ -1,0 +1,6 @@
+*.pyc
+*.npz
+log.txt
+*.pkl
+tags.txt
+words.txt

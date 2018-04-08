@@ -1,0 +1,4 @@
+tensorflow>=1.6
+numpy
+logging
+jieba>=3.8
